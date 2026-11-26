@@ -1,12 +1,12 @@
-# StackPilot — Production Self-Hosted AI & n8n Docker Compose Templates (2026)
+# NodeBudget — Production Self-Hosted AI & n8n Docker Compose Templates (2026)
 
 Production-hardened Docker Compose stacks, Caddy 2.8 automatic HTTPS configs, 2 GB Linux swap protection, and Ubuntu 24.04 bootstrap scripts for running AI agents and workflow automation 24/7 without OOM crashes.
 
-- **Interactive Cost & Docker Blueprint Generator**: https://stack.lyq705.com/
-- **Container RAM, Swap & OOM Sizing Calculator**: https://stack.lyq705.com/tools/ram-sizing/
-- **n8n / OpenClaw / Docker Error Decoder**: https://stack.lyq705.com/tools/error-decoder/
-- **2026 First-Party Linux 6.8 VPS Telemetry Lab & JSON Dataset**: https://stack.lyq705.com/benchmarks/
-- **Head-to-Head Comparisons**: [n8n vs Make vs Zapier](https://stack.lyq705.com/compare/n8n-vs-make-vs-zapier/) · [RackNerd vs Hostinger vs DigitalOcean](https://stack.lyq705.com/compare/racknerd-vs-hostinger-vs-digitalocean/) · [Beelink N100 vs Mac mini M4 vs VPS](https://stack.lyq705.com/compare/beelink-n100-vs-mac-mini-m4-vs-vps/)
+- **Interactive Cost & Docker Blueprint Generator**: https://nodebudget.dev/
+- **Container RAM, Swap & OOM Sizing Calculator**: https://nodebudget.dev/tools/ram-sizing/
+- **n8n / OpenClaw / Docker Error Decoder**: https://nodebudget.dev/tools/error-decoder/
+- **2026 First-Party Linux 6.8 VPS Telemetry Lab & JSON Dataset**: https://nodebudget.dev/benchmarks/
+- **Head-to-Head Comparisons**: [n8n vs Make vs Zapier](https://nodebudget.dev/compare/n8n-vs-make-vs-zapier/) · [RackNerd vs Hostinger vs DigitalOcean](https://nodebudget.dev/compare/racknerd-vs-hostinger-vs-digitalocean/) · [Beelink N100 vs Mac mini M4 vs VPS](https://nodebudget.dev/compare/beelink-n100-vs-mac-mini-m4-vs-vps/)
 
 ## Included Production Stacks
 
@@ -35,8 +35,8 @@ Measured on a live 3 vCPU Intel Xeon E5-2680 v4 KVM node (`Linux 6.8.0-147-gener
 - `cloudflared` Zero-Trust HTTPS tunnel RSS: **39 MB**
 - `dockerd` + `containerd` combined RSS: **138 MB**
 
-Download the full machine-readable telemetry dataset: https://stack.lyq705.com/benchmarks/2026-11-telemetry.json
+Download the full machine-readable telemetry dataset: https://nodebudget.dev/benchmarks/2026-11-telemetry.json
 
 ## License
 
-MIT License — maintained by [Yuanqiang Leng](https://stack.lyq705.com/about/).
+MIT License — maintained by [Yuanqiang Leng](https://nodebudget.dev/about/).
